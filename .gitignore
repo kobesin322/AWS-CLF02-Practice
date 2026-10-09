@@ -3,3 +3,10 @@ _site
 Gemfile.lock
 *.gem
 .jekyll-cache
+
+# PyInstaller output for the terminal exam. The launcher uses the Python script.
+/dist/
+/build/
+*.spec
+__pycache__/
+*.pyc
