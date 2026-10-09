@@ -19,6 +19,10 @@ If this guide has been helpful to you please share it with others and react to t
 
 </div>
 
+### Random exam
+
+- [32-question exam dashboard](/dashboard/) draws from every practice set using the CLF-C02 mix: Cloud Concepts 24%, Security & Compliance 30%, Technology & Services 34%, Billing & Support 12%.
+
 ### Exam List
 
 - [Practice Exam - 1](./practice-exam-1.md)
