@@ -65,6 +65,7 @@ Each Section contains a number of units. **Below Table Link** containing informa
 - ## Practice Exams ( dumps )
 
 - **[Practice Exam List](https://kananinirav.com/practice-exam/exams.html)**
+- **[32-question exam dashboard](/dashboard/)** — random exam weighted to the CLF-C02 domain mix
 
 ## Other AWS And Azure Certification Notes
 
